@@ -1,0 +1,21 @@
+кубик рубик - алгоритм бога
+Rubik's Cube
+
+Up = U Down = D Front = F Back = B L = left Right = R
+
+U'
+B'
+D'
+F'
+R2 = 180 градусов
+F'
+L'
+U'
+D  - за часовой стрелкой
+L'
+D' - против часовой стрелки
+L
+D
+B
+D
+B'

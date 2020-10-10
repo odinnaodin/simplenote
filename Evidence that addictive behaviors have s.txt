@@ -1,0 +1,99 @@
+Evidence that addictive behaviors have strong links with ancient retroviral infection
+
+Доказательства того, что аддиктивное поведение имеют прочные связи с древней ретровирусной инфекцией
+
+
+    Аддиктивное поведение – это одна из форм так называемого разрушительного (деструктивного) поведения, при котором человек будто стремится убежать от окружающей реальности, фиксируя свое внимание на конкретных видах деятельности и предметах или изменяя собственное психоэмоциональное состояния путем употребления различных веществ. По сути, прибегая к аддиктивному поведению, люди стремятся создать для себя иллюзию некой безопасности, прийти к жизненному равновесию.
+
+
+
+Date:
+    September 24, 2018
+Source:
+    University of Oxford
+Summary:
+    New research shows that an ancient retrovirus -- HK2 -- is more frequently found in drug addicts and thus is significantly associated with addiction. 
+
+
+
+Новые исследования международной команды, возглавляемой Отделом Зоологии Зоологии Оксфордского университета и Национально-Каподистским Университетом Афин, опубликованным сегодня в Трудах Национальной Академии Наук (PNAS), показывают, что более древний ретровирус - HK2 - у наркоманов и, таким образом, значительно ассоциируется с наркоманией.
+
+Геном человека «завален» остатками древних ретровирусных инфекций, которые вторглись в зародышевую линию предков наших предков. Только один из них все еще может распространяться у современных людей по имени HERV-K HML-2 (HK2), и не все люди имеют одинаковые вирусы HK2 в своих геномах. Один специфический необычный HK2, который находится близко к генам, участвующим в дофаминергической активности в головном мозге (RASGRF2), чаще встречается у наркоманов и, следовательно, значительно связан с наркоманией.
+
+Исследовательские группы Оксфордского университета и Университета Афин показали, что HK2 может манипулировать соседними генами. Их исследование дает убедительные доказательства того, что необычная интеграция HK2 может отвечать за недооцененное патогенное бремя аддиктивного поведения.
+
+Группа проанализировала образцы инфицированных вирусом гепатита C (HCV) пациентов из Великобритании и ВИЧ-инфицированных пациентов из Греции, которые заразились в соответствии с различными известными способами заражения (инъекционные наркотики), чтобы определить частоту интеграции HK2 в физические лица. Конкретная вставка HK2 в ген RASGRF2 обычно распространена у 5-10% населения.
+
+Это исследование показывает, что люди с четко выраженным аддиктивным поведением, то есть лица, которые вводят наркотики (PWID), в 2 - 3 раза чаще имеют интеграцию HK2 в RASGRF2 (ген, участвующий в регуляции дофаминергической активности в головном мозге). Это, таким образом, является убедительным свидетельством того, что HK2 в RASGRF2 предрасполагает этих людей к привыканию.
+
+Профессор Катзуракис из Оксфордского университета, который совместно руководил исследованием, сказал: «Мы знаем четкие биологические роли для небольшого числа эндогенных ретровирусов человека. Тем не менее, никогда не было убедительных доказательств в поддержку роли в биологии человека эндогенного ретровируса, который является незафиксированным, другими словами, не разделяемым всеми людьми в популяции. В нашем исследовании впервые показано, что редкие варианты HK2 могут влиять на сложную человеческую черту. Репликация этого открытия в отдельных когортах из Афин и Глазго особенно важна ».
+
+Доктор Маджоркинис из Афинского университета, который возглавлял исследование, добавил: «Большинство людей считают эти древние вирусы безвредными. Время от времени люди проявляют избыточную экспрессию HK2 при раке, но было трудно отличить причину от эффекта. Еще в 2012 году, после 20-летнего спора относительно их патогенной роли у людей, мы стремились проверить гипотезу высокого риска, что HERVs могут быть ответственны за болезни человека. Наше предложение было поддержано Советом медицинских исследований, и теперь у нас есть убедительное доказательство того, что HERV могут быть патогенными. Впервые мы можем провести различие между причиной и следствием патогенеза HERV ».
+
+Интеграция вируса предшествует появлению современных людей, так как он был обнаружен в неандертальском и Denisovan геномах, и поэтому поведение PWID определяет присутствие вируса. Скорее, вполне вероятно, что вирус связан с аддиктивным поведением. Не все PWID несут этот вирус, поэтому будет много других генетических и поведенческих факторов, но это важный прогностический фактор в зависимости. Кроме того, экспериментальная работа исследователей оказывает каузальную роль в выражении RASGRF2 и, следовательно, зависимости.
+
+Предоставляя поддержку сильной генетической предрасположенности к привыканию, исследовательская группа Оксфорда выступает в поддержку медико-фармакологических вмешательств в поддержку наркоманов. Их исследование показывает, что новые технологии секвенирования и крупные геномные проекты, такие как проект 100 000 геномов, обеспечат более глубокое понимание генетических признаков, которые ранее не были хорошо поняты.
+
+Доктор Маджоркинис сказал: «Глядя в эту« темную »часть генома, вы откроете больше геномных секретов».
+
+Большинство HERVs в геноме разделяют большинство людей. Поэтому, если вы выбираете двух случайных людей и проверяете, есть ли у них одинаковые HERV в том же геномном месте, он будет там. Это не относится к некоторым экземплярам HK2; есть вариации, причем некоторые люди несут дополнительные копии в своих геномах в разных местах. Удивительно, но, похоже, есть редкие варианты, когда интегрированный вирус «кодирует компетентный». Другими словами, это непрерывный проект, который может быть использован для создания большего количества вирусов, которые могут быть активными и вызывать проблемы у человека.
+
+HERVs несут сигналы, чтобы манипулировать механизмом репликации хоста, и они делают это для своих собственных эгоистических целей - увеличить их количество копий за счет хоста. Однако, если они интегрируются вблизи гена, эти же сигналы будут влиять на экспрессию и функцию гена, рядом с которым они интегрированы. Хотя у исследователей все еще есть пробелы в понимании того, как именно это происходит, эксперименты этой исследовательской группы показывают, что, вставив HK2 в ген, транскрипция гена была значительно изменена.
+
+С момента обнаружения ВИЧ и (человеческого Т-лимфотропного вируса) HTLV это третий случай, когда человеческий ретровирус был сильно связан с вредным воздействием на человека. В этом случае вредное воздействие, которое выявили исследователи, является сложным поведенческим условием. Можно сказать, что этот вирус «условно патогенен», поскольку многие люди могут его переносить и не страдать от негативных последствий.
+
+Распространение ВИЧ между людьми; различия в распространенности HK2 в значительной степени наследуются, хотя возможно, что некоторые вирусы HK2 все еще могут быть заразными в популяциях человека. Очень перспективной областью будущих исследований являются взаимодействия между HK2 и другими инфекционными человеческими вирусами. Примечательно, что две когорты PWID, которые исследователи исследовали, хронически инфицированы ВИЧ и HCV, соответственно.
+
+Исследователи надеются, что, понимая механико-биохимические особенности аддиктивного поведения, более эффективные фармакологические цели могут быть разработаны для разработки лекарств. И поскольку HK2 (прогностический фактор) является ретровирусом, возможно, что существующие препараты могут быть использованы в качестве отправных точек для исследований в этой области.
+
+Источник Истории:
+
+Материалы, предоставленные Оксфордским университетом. Примечание. Содержимое может быть отредактировано для стиля и длины.
+
+Справочник журнала:
+
+     Тимократис Карамитрос, Тара Херст, Эмануэле Марчи, Эйрини Карамичали, Урания Георгуполу, Андреас Ментис, Джои Рипсаам, Одри Линь, Димитриос Параскевич, Анджелос Хацакис, Джон Маклауклан, Арис Катзуракис, Гкикас Маджоркинис. Интеграция человеческого эндогенного ретровируса-K HML-2 в RASGRF2 связана с внутривенным злоупотреблением наркотиками и модулирует транскрипцию в модели клеточной линии. Труды Национальной академии наук, 2018; 201811940 DOI: 10.1073 / pnas.1811940115
+
+
+
+
+
+
+
+New research from an international team led by Oxford University's Department of Zoology and the National-Kapodistrian University of Athens, published today in Proceedings of the National Academy of Sciences (PNAS), shows that an ancient retrovirus -- HK2 -- is more frequently found in drug addicts and thus is significantly associated with addiction.
+
+The human genome is "littered" with remnants of ancient retrovirus infections that invaded the germline of our primate ancestors. Only one of these may still be proliferating in modern humans named HERV-K HML-2 (HK2), and not all humans have the same HK2 viruses in their genomes. One specific uncommon HK2, which lies close to a gene involved in dopaminergic activity in the brain (RASGRF2), is more frequently found in drug addicts and thus is significantly associated with addiction.
+
+The Oxford University and University of Athens research teams have shown that HK2 can manipulate nearby genes. Their study provides strong evidence that uncommon HK2 integrations can be responsible for the unappreciated pathogenic burden of addictive behaviours.
+
+The team analysed samples of Hepatitis C Virus (HCV)-infected patients from the UK and HIV-infected patients from Greece who had become infected according to distinct, known routes of infection (injecting drugs), to determine the frequency of the HK2 integration in individuals. The particular HK2 insertion in the RASGRF2 gene is usually prevalent in 5-10% of the population.
+
+This study shows that people with well-defined addictive behaviour i.e. Persons Who Inject Drugs (PWID) are 2 to 3 times more likely to have the integration of HK2 within RASGRF2 (a gene involved in regulating dopaminergic activity in the brain). It is thus a strong indication that HK2 within RASGRF2 predisposes these people in addictive behaviour.
+
+Professor Katzourakis, from the University of Oxford, who co-directed the study said: 'We know of clear biological roles for a small number of human endogenous retroviruses. However, there has never before been strong evidence in support of a role in human biology of an endogenous retrovirus that is unfixed, in other words not shared by all individuals in the population. Our study shows for the first time that rare variants of HK2 can affect a complex human trait. The replication of this finding in the distinct Athens and Glasgow cohorts is particularly important.'
+
+Dr Magiorkinis, from the University of Athens, who led the study added: 'Most people think these ancient viruses are harmless. From time to time, people have shown overexpression of HK2 in cancer, but it has been difficult to distinguish cause from effect. Back in 2012, following a 20-year controversy regarding their pathogenic roles in humans, we sought to test the high-risk hypothesis that HERVs can be responsible for human disease. Our proposal was supported by the Medical Research Council, and now we have strong proof that HERVs can be pathogenic. For the first time, we are able to make a distinction between cause and effect in HERV pathogenicity.'
+
+The integration of the virus predates the emergence of modern humans, as it has been found in Neanderthal and Denisovan genomes, and therefore it is not the behaviour of PWIDs that determines the presence of the virus. Rather, it is likely that the virus is associated with addictive behaviour. Not all PWIDs carry this virus so there will be many other genetic and behavioural factors involved, but this is an important predictive factor in addiction. Furthermore the researchers' experimental work supports a causal role in the expression of RASGRF2 and hence addiction.
+
+By providing support for a strong genetic predisposition of addictive behaviour, the Oxford research team advocates in support of medical-pharmacological interventions in support of addicts. Their study shows that new sequencing technologies and large genomic projects such as the 100,000 genomes project will deliver enhanced understanding of genetic features that were previously not well-understood.
+
+Dr Magiorkinis said: 'Looking into this "dark" part of the genome will unlock more genomic secrets.'
+
+Most HERVs in the genome are shared by most human individuals. So if you pick two random people and check to see if they have the same HERVs in the same genomic location, it will be there. This is not true of some copies of HK2; there is variation, with certain individuals carrying extra copies in their genomes at distinct locations. Amazingly, it appears there are some rare variants where the integrated virus is 'coding competent'. In other words, it is an unbroken blueprint that could be used to make more viruses which could be active and cause problems to the human host.
+
+HERVs carry signals to manipulate the host's replication machinery, and they do this for their own selfish purposes -- to increase their copy number at the expense of the host. However, if they integrate near a gene, these same signals will affect the expression and function of the gene near which they have integrated. While researchers still have gaps in their understanding of how exactly this happens, the experiments of this research team show that by inserting HK2 within a gene the transcription of the gene was significantly altered.
+
+Since the discovery of HIV and (Human T-Lymphotropic Virus) HTLV, this is the third case in which a human retrovirus has been strongly linked with a harmful effect in humans. In this case, the harmful effect that researchers have identified is a complex behavioural condition. It could be said that this virus is 'conditionally pathogenic' as many individuals could carry it and not suffer negative consequences.
+
+HIV spreads between individuals; differences in prevalence of HK2 are largely heritable, although it is possible that some HK2 viruses could still be infectious in the human populations. A very promising area of future research are the interactions between HK2 and other infectious human viruses. It is notable that the two cohorts of PWIDs that the researchers investigated are chronically infected with HIV and HCV respectively.
+
+The researchers hope that by understanding the mechanistic-biochemical features of addictive behaviour better pharmacological targets can be developed for drug development. And as HK2 (the predictive factor) is a retrovirus it is possible that existing drugs could be used as starting points for research into this area.
+
+Story Source:
+
+Materials provided by University of Oxford. Note: Content may be edited for style and length.
+
+Journal Reference:
+
+    Timokratis Karamitros, Tara Hurst, Emanuele Marchi, Eirini Karamichali, Urania Georgopoulou, Andreas Mentis, Joey Riepsaame, Audrey Lin, Dimitrios Paraskevis, Angelos Hatzakis, John McLauchlan, Aris Katzourakis, Gkikas Magiorkinis. Human Endogenous Retrovirus-K HML-2 integration within RASGRF2 is associated with intravenous drug abuse and modulates transcription in a cell-line model. Proceedings of the National Academy of Sciences, 2018; 201811940 DOI: 10.1073/pnas.1811940115

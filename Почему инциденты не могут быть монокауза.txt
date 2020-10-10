@@ -1,0 +1,31 @@
+Почему инциденты не могут быть монокаузальными.
+
+Когда происходит инцидент, возникает сильный соблазн определить единственную причину. Это как если бы система была цепью, и мы ищем слабое звено, ответственное за разрыв цепи. Но в организациях, которые работают в постоянном режиме, система работает не так. Этого не может быть, потому что есть слишком   много вещей, которые могут и могут пойти не так. Подумайте обо всех точках соприкосновения в вашей системе, сколько возможностей для возникновения проблем
+(ошибки, опечатка в настройке, плохие данные и т.д.). Если бы одного из них было достаточно, чтобы снести систему, то это было бы как карточный домик, падающий все время.
+
+То, что происходит в успешных организациях по мере того, как эта система развивается, развивает уровни защиты, чтобы она могла пережить те виды индивидуальных проблем, которые возникают всегда. Конечно, система все еще падает, и чаще, чем хотелось бы. Но время безотказной работы достаточно велико, чтобы компания продолжала выживать.
+
+Вот аналогия, которую я заимствую у Джона Олспоу. Подумайте о важной новой функции или услуге, которую ваша организация успешно предоставила: та, которая заняла несколько четвертей и потребовала сотрудничества нескольких команд. Держу пари, что есть много факторов, которые способствовали успеху этих усилий. Представь, если тебя спросят: "Какова была первопричина успеха этой функции?"
+
+Значит, это касается инцидентов. Поскольку организация не может предотвратить возникновение индивидуальных проблем, система развивается, защищая себя, создавая оборонительные системы, созданные повседневной работой людей в компании. Конечно, код, который мы пишем, может даже не с первой попытки               скомпилировать, но каким-то образом код, который попал в производство, работает настолько хорошо, что компания все еще в бизнесе. Люди постоянно проверяют систему, и большая часть этой работы невидима.
+
+Для того чтобы инцидент произошел, необходимо, чтобы многочисленные факторы способствовали проникновению в те слои оборонительной системы, которые эволюционировали. Я говорю это с уверенностью, потому что если бы хоть одно событие могло уничтожить вашу систему, то оно бы никогда не зашло так далеко. Вот  почему, когда вы заглядываете в инцидент, вы всегда найдете тех многочисленных участников.
+
+
+
+Why incidents can’t be monocausal
+
+When an incident happens, the temptation is strong to identify a single cause. It’s as if the system is a chain, and we’re looking for the weak link that was  responsible for the chain breaking. But, in organizations that are going concerns, that isn’t how the system works. It can’t be, because there are simply too  many things that can and do go wrong. Think of all the touch points in your system, how many opportunities there are for problems (bugs, typo in config, bad   data, …). If any one of these was enough to take down the system, then it would be like a house of cards, falling down all of the time.
+
+What happens in successful organizations as that the system evolves layers of defense, so that it can survive the kinds of individual problems that are always cropping up. Sure, the system still goes down, and more often than we would like. But the uptime is good enough that the company continues to survive.
+
+Here’s an analogy that I’m borrowing from John Allspaw. Think about a significant new feature or service that your organization delivered successfully: one    that took multiple quarters and required the collaboration of multiple teams. I’d wager that there were many factors that contributed to the success of this   effort. Imagine if someone asked you: “what was the root cause for the success of this feature?”
+
+So it is with incidents. Because an organization can’t prevent the occurrence of individual problems, the system evolves defenses to protect itself, created   by the everyday work of the people in the company. Sure, the code we write might not even compile on the first try, but somehow the code that made it out to   production is running well enough that the company is still in business. People are doing checks on the system all of the time, and most of this work is       invisible.
+
+For an incident to happen, multiple factors must have contributed to penetrate those layers of defenses that have evolved. I say that with confidence, because if a single event could take your system down, then it never would have made it this far to begin with. That’s why, when you dig into an incident, you’ll      always find those multiple contributors.
+
+
+
+https://lorinhochstein.wordpress.com/2019/07/04/why-incidents-cant-be-monocausal/
+
